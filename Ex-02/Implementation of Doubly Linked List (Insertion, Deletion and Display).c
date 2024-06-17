@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex02:Implementation of Doubly Linked List (Insertion, Deletion and Display)
+
 #include <stdio.h>
 #include <stdlib.h>
 
