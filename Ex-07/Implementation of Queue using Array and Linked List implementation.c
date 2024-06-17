@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-07:Implementation of Queue using Array and Linked List implementation
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
