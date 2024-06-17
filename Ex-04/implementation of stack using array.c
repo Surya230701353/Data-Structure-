@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-04:implementation of stack using array
+
 #include <stdio.h>
 #include <stdlib.h>
 
