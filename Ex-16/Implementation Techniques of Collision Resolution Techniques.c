@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-16:Implementation Techniques of Collision Resolution Techniques
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
