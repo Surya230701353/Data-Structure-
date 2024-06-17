@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-12:Performing Topological Sorting
+
 #include <stdio.h>
 #include <stdlib.h>
 
