@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-11:Implementation of BFS, DFS
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
