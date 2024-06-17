@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-08:Performing Tree Traversal Technique
+
 #include <stdio.h>
 #include <stdlib.h>
 
