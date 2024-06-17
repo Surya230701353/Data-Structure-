@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-03:Applications of Singly Linked List (Polynomial Manipulation)
+
 #include <stdio.h>
 #include <stdlib.h>
 
