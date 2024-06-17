@@ -1,3 +1,6 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-13:Implementation of Prim's Algorithm
 #include <stdio.h> 
 #include <stdbool.h> 
  
