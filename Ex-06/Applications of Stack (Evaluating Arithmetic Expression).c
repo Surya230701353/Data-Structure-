@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-06:Applications of Stack (Evaluating Arithmetic Expression)
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <ctype.h> 
