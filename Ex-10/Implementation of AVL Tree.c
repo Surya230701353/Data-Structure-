@@ -1,3 +1,6 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-10:Implementation of AVL Tree
 #include <stdio.h> 
 #include <stdlib.h> 
  
