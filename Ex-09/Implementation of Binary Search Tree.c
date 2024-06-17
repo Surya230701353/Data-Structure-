@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-09:Implementation of Binary Search Tree
+
 #include <stdio.h>
 #include <stdlib.h>
 
