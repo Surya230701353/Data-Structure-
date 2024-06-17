@@ -1,3 +1,7 @@
+Name:E.Surya
+Roll Number:230701353
+Ex-05:Applications of Stack (Infix to Postfix)
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
